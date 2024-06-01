@@ -38,7 +38,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" title="Power BI" alt="Power BI" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://www.tableau.com/">
-    <img src="https://www.tableau.com/profile/hsiao-jung.lee#!/vizhome/Book2_15821264181840/Dashboard1?publish=yes" title="Tableau" alt="Tableau" width="40" height="40"/>
+    <img src="[https://www.tableau.com/profile/hsiao-jung.lee#!/vizhome/Book2_15821264181840/Dashboard1?publish=yes](https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg)" title="Tableau" alt="Tableau" width="40" height="40"/>
 </a>&nbsp;
 
 
