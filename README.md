@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a data analyst. Working with data, I feel like a natural detective when it comes to deciphering the secrets stored in the data. Oh, how many wonderful discoveries the data has in store for us, what exciting adventures await us!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
