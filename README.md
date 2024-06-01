@@ -1,7 +1,9 @@
 # Hello, I'm Daria!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Darya-Filatova"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
-
+<a href="https://public.tableau.com/app/profile/darya.filatova/vizzes">
+    <img src="https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" />
+</a>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="100"/>
 </div>
