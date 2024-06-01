@@ -28,6 +28,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+<a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+</a>&nbsp;
+<a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>
+</a>&nbsp;
+
 ### Network
 <div>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
