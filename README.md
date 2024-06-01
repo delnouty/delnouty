@@ -1,6 +1,8 @@
 # Hello, I'm Daria
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 [Brief Introduction - Remove this afterwards]
 
 I'm a data analyst. Working with data, I feel like a natural detective when it comes to deciphering the secrets stored in the data. Oh, how many wonderful discoveries the data has in store for us, what exciting adventures await us!
