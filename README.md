@@ -35,7 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://powerbi.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" title="Power BI" alt="Power BI" width="40" height="40"/>
+    <img src="https://powerbi.microsoft.com/images/site-images/touch-icon-ipad-retina.png" title="Power BI" alt="Power BI" width="40" height="40"/>
 </a>&nbsp;
 
 ### Network
