@@ -3,7 +3,13 @@
 <a href="https://www.researchgate.net/profile/Darya-Filatova"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>
+  </a>&nbsp;
 </div>
 
 I'm a data analyst. Working with data, I feel like a natural detective when it comes to deciphering the secrets stored in the data. Oh, how many wonderful discoveries the data has in store for us, what exciting adventures await us!
