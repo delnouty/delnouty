@@ -3,7 +3,7 @@
 <a href="https://www.researchgate.net/profile/Darya-Filatova"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/26xBukhfRROfH1sYE/giphy.gif" width="100"/>
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   </a>&nbsp;
