@@ -18,6 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Data Cleaning and Preprocessing               | <a href="https:">DCP</a>|
+| Exploratory Data Analysis                     |                         |
 | Statistical Analysis                          | <a href="https: ">SA</a>|
 | Machine Learning                              | ML Lab|
 | Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Dogs  </a>|
