@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Data Cleaning and Preprocessing               | <a href="https://google.com">Detection Lab</a>|
 | Statistical Analysis                          | <a href="https://google.com">Detection Lab</a>|
 | Machine Learning                              | ML Lab|
-| Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge"    </a>|
+| Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Dogs  </a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
