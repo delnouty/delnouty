@@ -17,10 +17,10 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Cleaning and Preprocessing               | <a href="https:">DCP</a>|
+| Data Cleaning and Preprocessing               | <a href="https:"> </a>|
 | Exploratory Data Analysis                     |                         |
 | Feature engineering                           |                         |
-| Statistical Analysis                          | <a href="https: ">SA</a>|
+| Statistical Analysis                          | <a href="https: "> </a>|
 | Machine Learning                              | ML Lab|
 | Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Dogs  </a>|
 
