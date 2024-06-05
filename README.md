@@ -22,7 +22,7 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
 | Feature engineering                           |                         |
 | Statistical Analysis                          | <a href="https: "> </a>|
 | Machine Learning                              | ML Lab|
-| Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Dogs  </a>|
+| Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Enhancing Client Retention  </a>|
 
 
 ## Tools
