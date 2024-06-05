@@ -19,12 +19,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Cleaning and Preprocessing               | <a href="https://google.com">Detection Lab</a>|
-| Statistical Analysis                          | <a href="https://google.com">Detection Lab</a>|
+| Data Cleaning and Preprocessing               | <a href="https:">DCP</a>|
+| Statistical Analysis                          | <a href="https: ">SA</a>|
 | Machine Learning                              | ML Lab|
 | Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Dogs  </a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
