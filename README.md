@@ -26,30 +26,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
+### Programming languages
 <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://www.mathworks.com/products/matlab.html">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>
 </a>&nbsp;
+
+
+### Viz
 <a href="https://powerbi.microsoft.com/">
     <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" title="Power BI" alt="Power BI" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://www.tableau.com/">
     <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" title="Tableau" alt="Tableau" width="80" height="80"/>
 </a>&nbsp;
-
-
-### Network
-<div>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
-   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
