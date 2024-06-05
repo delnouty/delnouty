@@ -11,7 +11,7 @@ I'm a data analyst. Working with data, I feel like a natural detective when it c
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a data analyst with expertise in statistical and stochastic modeling, optimization, optimal control, and data science, my goal is to leverage my skills to drive data-driven insights and contribute to innovative projects. I aim to transform complex data into actionable strategies and solutions.
 
 ## Skills
 
@@ -36,13 +36,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ### Viz
+
 <a href="https://powerbi.microsoft.com/">
     <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" title="Power BI" alt="Power BI" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://www.tableau.com/">
     <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" title="Tableau" alt="Tableau" width="80" height="80"/>
 </a>&nbsp;
+
 ### Endpoint
+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
