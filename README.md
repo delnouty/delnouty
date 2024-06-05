@@ -41,7 +41,7 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
     <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" title="Power BI" alt="Power BI" width="40" height="40"/>
 </a>&nbsp;
 <a href="https://www.tableau.com/">
-    <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" title="Tableau" alt="Tableau" width="80" height="80"/>
+    <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" title="Tableau" alt="Tableau" width="100" height="100"/>
 </a>&nbsp;
 
 ### Endpoint
