@@ -17,7 +17,7 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Cleaning and Preprocessing               | <a href="https:"> </a>|
+| Data Cleaning and Preprocessing               | <a On-Taxi-Demand"> </a>|
 | Exploratory Data Analysis                     |                         |
 | Feature engineering                           |                         |
 | Statistical Analysis                          | <a href="https: "> </a>|
