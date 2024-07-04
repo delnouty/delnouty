@@ -18,10 +18,10 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Data Cleaning and Preprocessing               | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
-| Exploratory Data Analysis                     |                         |
-| Feature engineering                           |                         |
-| Statistical Analysis                          | <a href="https: "> </a>|
-| Machine Learning                              | ML Lab|
+| Exploratory Data Analysis                     | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
+| Feature engineering                           | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
+| Statistical Analysis                          | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
+| Machine Learning                              | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
 | Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Enhancing Client Retention  </a>|
 
 
