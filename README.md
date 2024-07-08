@@ -54,4 +54,5 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
 
 ## Projects
 -  On Taxi Demand
+-  Enhancing Client Retention
 -  Harvey
