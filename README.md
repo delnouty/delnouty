@@ -23,6 +23,7 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
 | Statistical Analysis                          | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
 | Machine Learning                              | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
 | Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Enhancing Client Retention  </a>|
+| DashBords                                     | [NetFlix Stock Data]   |
 
 
 ## Tools
