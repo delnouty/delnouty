@@ -1,4 +1,4 @@
-# Hello, I'm Daria!
+# Hello, I'm Darya!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Darya-Filatova"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?&style=for-the-badge&logo=researchgate&logoColor=white" /></a>
 <a href="https://public.tableau.com/app/profile/darya.filatova/vizzes"><img src="https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -42,7 +42,7 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
     <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" title="Power BI" alt="Power BI" width="80" height="80"/>
 </a>&nbsp;
 <a href="https://www.tableau.com/">
-    <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" title="Tableau" alt="Tableau" width="100" height="100"/>
+    <img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg" title="Tableau" alt="Tableau" width="90" height="90"/>
 </a>&nbsp;
 
 
