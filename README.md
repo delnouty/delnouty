@@ -56,6 +56,6 @@ As a data analyst with expertise in statistical and stochastic modeling, optimiz
 </div>
 
 ## Projects
--  On Taxi Demand
--  Enhancing Client Retention
+-  On Taxi Demand, Nutri Score
+-  Enhancing Client Retention, Sentiment Analysis
 -  Harvey
