@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="100"/>
 </div>
 
-I'm a data analyst. Working with data, I feel like a natural detective when it comes to deciphering the secrets stored in the data. Oh, how many wonderful discoveries the data has in store for us, what exciting adventures await us!
+I'm a data scientist. Working with data, I feel like a natural detective when it comes to deciphering the secrets stored in the data. Oh, how many wonderful discoveries the data has in store for us, what exciting adventures await us!
 
 ## Objective
 
