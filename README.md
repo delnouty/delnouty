@@ -11,7 +11,7 @@ I'm a data scientist. Working with data, I feel like a natural detective when it
 
 ## Objective
 
-As a data analyst with expertise in statistical and stochastic modeling, optimization, optimal control, and data science, my goal is to leverage my skills to drive data-driven insights and contribute to innovative projects. I aim to transform complex data into actionable strategies and solutions.
+As a data scientist with expertise in statistical and stochastic modeling, optimization, optimal control, and data science, my goal is to leverage my skills to drive data-driven insights and contribute to innovative projects. I aim to transform complex data into actionable strategies and solutions.
 
 ## Skills
 
