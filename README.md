@@ -7,11 +7,12 @@
   <img src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width="100"/>
 </div>
 
-I'm a data scientist. Working with data, I feel like a natural detective when it comes to deciphering the secrets stored in the data. Oh, how many wonderful discoveries the data has in store for us, what exciting adventures await us!
+I'm a data scientist transitioning into MLOps engineering.
+Working with data has always felt like uncovering hidden structures beneath the surface — but today my curiosity goes further. I’m fascinated not only by insights, but by the systems that make models reliable, reproducible, and scalable. Building pipelines, automating workflows, orchestrating experiments, and turning prototypes into robust production solutions — this is where my detective work continues, now at the level of infrastructure.
 
 ## Objective
 
-As a data scientist with expertise in statistical and stochastic modeling, optimization, optimal control, and data science, my goal is to leverage my skills to drive data-driven insights and contribute to innovative projects. I aim to transform complex data into actionable strategies and solutions.
+My goal is to transition from data science to MLOps engineering by combining my background in statistical and stochastic modeling, optimization, and optimal control with modern engineering practices. I aim to build reliable, reproducible, and scalable machine learning systems that bridge the gap between experimentation and production.
 
 ## Skills
 
@@ -31,17 +32,39 @@ As a data scientist with expertise in statistical and stochastic modeling, optim
 ## Tools
 ### Programming languages
 
-<p>
+<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
          title="Python" alt="Python" width="45" height="45"/>
   </a>
-  &nbsp;&nbsp;
+  <strong>Python</strong> — my main language for data science, ML, and MLOps.  
+  Used for building pipelines, automation, orchestration, and model deployment.
+</p>
+
+<p align="left">
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" 
          title="MATLAB" alt="MATLAB" width="45" height="45"/>
   </a>
+  <strong>MATLAB</strong> — strong background in mathematical modeling, optimization, and control theory.
 </p>
+
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" 
+         title="Bash" alt="Bash" width="45" height="45"/>
+  </a>
+  <strong>Bash</strong> — scripting for automation, environment setup, and workflow orchestration.
+</p>
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
+         title="SQL" alt="SQL" width="45" height="45"/>
+  </a>
+  <strong>SQL</strong> — querying, data extraction, preprocessing, and feature preparation.
+</p>
+
 
 
 
