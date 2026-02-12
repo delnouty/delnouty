@@ -30,12 +30,19 @@ As a data scientist with expertise in statistical and stochastic modeling, optim
 
 ## Tools
 ### Programming languages
-<a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-</a>&nbsp;
-<a href="https://www.mathworks.com/products/matlab.html">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>
-</a>&nbsp;
+
+<p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
+         title="Python" alt="Python" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" 
+         title="MATLAB" alt="MATLAB" width="45" height="45"/>
+  </a>
+</p>
+
 
 
 ### Viz
