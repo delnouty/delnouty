@@ -65,6 +65,55 @@ My goal is to transition from data science to MLOps engineering by combining my 
   <strong>SQL</strong> — querying, data extraction, preprocessing, and feature preparation.
 </p>
 
+### MLOps & Tools
+
+<p align="left">
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg"
+         title="MLflow" alt="MLflow" width="45" height="45"/>
+  </a>
+  <strong>MLflow</strong> — experiment tracking, model registry, reproducibility.
+</p>
+
+<p align="left">
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg"
+         title="Airflow" alt="Airflow" width="45" height="45"/>
+  </a>
+  <strong>Apache Airflow</strong> — DAG orchestration, pipeline automation, scheduling.
+</p>
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"
+         title="Docker" alt="Docker" width="45" height="45"/>
+  </a>
+  <strong>Docker</strong> — containerization, reproducible environments, deployment.
+</p>
+
+<p align="left">
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"
+         title="Kubernetes" alt="Kubernetes" width="45" height="45"/>
+  </a>
+  <strong>Kubernetes</strong> — orchestration, scaling, production‑grade deployments.
+</p>
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+         title="Git" alt="Git" width="45" height="45"/>
+  </a>
+  <strong>Git</strong> — version control, CI/CD workflows, collaboration.
+</p>
+
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+         title="Linux" alt="Linux" width="45" height="45"/>
+  </a>
+  <strong>Linux</strong> — shell scripting, environment management, automation.
+</p>
 
 
 
