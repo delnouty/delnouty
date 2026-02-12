@@ -49,11 +49,11 @@ My goal is to transition from data science to MLOps engineering by combining my 
 </p>
 
 ### BI tools
-
 <p align="left">
   <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?fmt=png-alpha&wid=48&hei=48" width="26" height="26"/>&nbsp;
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="26" height="26"/>
 </p>
+
 
 ## Certifications
 
