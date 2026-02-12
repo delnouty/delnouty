@@ -32,16 +32,15 @@ My goal is to transition from data science to MLOps engineering by combining my 
 ## Tools
 ### Programming languages
 
+### Programming languages
+
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
-       title="Python" alt="Python" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" 
-       title="MATLAB" alt="MATLAB" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg"
-       title="YAML" alt="YAML" width="28" height="28"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"
-       title="Markdown" alt="Markdown" width="28" height="28"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="26" height="26"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="26" height="26"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" width="26" height="26"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="26" height="26"/>
 </p>
+
 
 ### MLOps & Tools
 
