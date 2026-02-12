@@ -37,8 +37,7 @@ My goal is to transition from data science to MLOps engineering by combining my 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
          title="Python" alt="Python" width="45" height="45"/>
   </a>
-  <strong>Python</strong> — my main language for data science, ML, and MLOps.  
-  Used for building pipelines, automation, orchestration, and model deployment.
+  <strong>Python</strong> — my main language for data science, ML, and MLOps.
 </p>
 
 <p align="left">
@@ -46,23 +45,23 @@ My goal is to transition from data science to MLOps engineering by combining my 
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" 
          title="MATLAB" alt="MATLAB" width="45" height="45"/>
   </a>
-  <strong>MATLAB</strong> — strong background in mathematical modeling, optimization, and control theory.
+  <strong>MATLAB</strong> — mathematical modeling, optimization, and control theory.
 </p>
 
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" 
-         title="Bash" alt="Bash" width="45" height="45"/>
+  <a href="https://yaml.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg"
+         title="YAML" alt="YAML" width="45" height="45"/>
   </a>
-  <strong>Bash</strong> — scripting for automation, environment setup, and workflow orchestration.
+  <strong>YAML</strong> — configuration files for MLOps tools, pipelines, CI/CD, and orchestration.
 </p>
 
 <p align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" 
-         title="SQL" alt="SQL" width="45" height="45"/>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"
+         title="Markdown" alt="Markdown" width="45" height="45"/>
   </a>
-  <strong>SQL</strong> — querying, data extraction, preprocessing, and feature preparation.
+  <strong>Markdown</strong> — documentation, reports, project structure, reproducible research.
 </p>
 
 ### MLOps & Tools
