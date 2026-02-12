@@ -38,9 +38,9 @@ My goal is to transition from data science to MLOps engineering by combining my 
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="26" height="26"/>
 </p>
 
-### MLOps
+### MLOps tools
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mlflow/mlflow-original.svg" width="26" height="26"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" width="26" height="26"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" width="26" height="26"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="26" height="26"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="26" height="26"/>&nbsp;
