@@ -16,17 +16,19 @@ My goal is to transition from data science to MLOps engineering by combining my 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Data Cleaning and Preprocessing               | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
-| Exploratory Data Analysis                     | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
-| Feature engineering                           | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
-| Statistical Analysis                          | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
-| Machine Learning                              | [On-Taxi-Demand](https://github.com/delnouty/On-Taxi-Demand)|
-|                                               | [Sentiment Analysis](https://github.com/delnouty/Sentiments)| 
-|                                               | [Nutri Score](https://github.com/Simplon-openfoodfacts)    |
-| Data Visualization                            | <a href="https://public.tableau.com/app/profile/darya.filatova/viz/myDogsTimeZone/Thechallenge">  Enhancing Client Retention  </a>|
-| DashBords                                     | [Netflix Stock Data](https://github.com/delnouty/Netflix-Dash)  <br> [Car Sales](https://github.com/delnouty/Dash-Vis-Car-Sales) |
+### MLOps‑related skills and associated projects
+
+| Skill / Practice                               | Associated Project |
+|------------------------------------------------|--------------------|
+| Pipeline orchestration (Airflow DAGs)          | [On‑Taxi‑Demand](https://github.com/delnouty/On-Taxi-Demand) |
+| Experiment tracking (MLflow)                   | [On‑Taxi‑Demand](https://github.com/delnouty/On-Taxi-Demand) |
+| Reproducible environments (Docker)             | [On‑Taxi‑Demand](https://github.com/delnouty/On-Taxi-Demand) |
+| Model versioning & registry                    | [On‑Taxi‑Demand](https://github.com/delnouty/On-Taxi-Demand) |
+| Automated data preprocessing                   | [On‑Taxi‑Demand](https://github.com/delnouty/On-Taxi-Demand) |
+| Monitoring & logging (basic)                   | [Netflix Dash](https://github.com/delnouty/Netflix-Dash) |
+| Interactive dashboards (Streamlit)             | [Car Sales](https://github.com/delnouty/Dash-Vis-Car-Sales) |
+| Deployment‑ready visualization apps            | [Netflix Dash](https://github.com/delnouty/Netflix-Dash) |
+
 
 
 ## Tools
